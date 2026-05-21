@@ -1,3 +1,6 @@
+Stars Beyond Barriers
+=====================
+
 # Stars Beyond Barriers
 
 Astronomy outreach and mentorship initiative.
@@ -26,3 +29,10 @@ mentorship, and scientific opportunities through inclusive community engagement.
 ## Get Involved
 
 Interested in participating or collaborating? Contact us to learn more.
+
+---
+
+## Organizers
+- [Genaro Suárez](https://gsuarezcastro.wixsite.com/gsuarez) (Posdoc at AMNH)
+- James Chan (Posdoc at AMNH)
+- Sherelyn Alejandro Merchán (PhD student at CUNY)
