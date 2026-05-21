@@ -5,7 +5,9 @@ Stars Beyond Barriers
 
 Astronomy outreach and mentorship initiative.
 
-![Logo](assets/images/logo.png)
+<p align="center">
+  <img src="assets/images/logo.png" width="250">
+</p>
 
 ---
 
