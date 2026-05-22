@@ -4,7 +4,7 @@
 
 **Stars Beyond Barriers** aims to inspire and support students from underrepresented groups, particularly Latina women, to pursue STEM by serving as a bridge between students and well-established science programs that provide mentorship, research opportunities, and pathways toward STEM careers.
 
-This initiative was inspired by the Women and Girls in Astronomy Program developed by the North American Regional Office of Astronomy for Development (NA-ROAD). Support and partnership through this program are currently pending review.
+This initiative was inspired by the [Women and Girls in Astronomy Program](https://naroad.astro4dev.org/2026/04/08/womens-and-girls-in-astronomy-program-2026-call-for-proposal/) developed by the North American Regional Office of Astronomy for Development (NA-ROAD). Support and partnership through this program are currently pending review.
 
 ## Program Activities
 
@@ -18,6 +18,78 @@ Focused on students' professional and academic growth, participants will engage 
 
 ## Venue
 The program will be hosted at the [American Museum of Natural History](https://www.amnh.org/), primarily within the [Department of Astrophysics](https://www.amnh.org/research/physical-sciences/astrophysics), in New York City.
+
+## Students
+
+We will select a cohort of 10 students.
+
+Additional information about eligibility, application requirements, and timelines will be announced soon.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/images/student.png" width="120"><br>
+      <strong>Student Name</strong><br>
+      School Name
+    </td>
+
+    <td align="center">
+      <img src="assets/images/student.png" width="120"><br>
+      <strong>Student Name</strong><br>
+      School Name
+    </td>
+
+    <td align="center">
+      <img src="assets/images/student.png" width="120"><br>
+      <strong>Student Name</strong><br>
+      School Name
+    </td>
+
+    <td align="center">
+      <img src="assets/images/student.png" width="120"><br>
+      <strong>Student Name</strong><br>
+      School Name
+    </td>
+
+    <td align="center">
+      <img src="assets/images/student.png" width="120"><br>
+      <strong>Student Name</strong><br>
+      School Name
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="assets/images/student.png" width="120"><br>
+      <strong>Student Name</strong><br>
+      School Name
+    </td>
+
+    <td align="center">
+      <img src="assets/images/student.png" width="120"><br>
+      <strong>Student Name</strong><br>
+      School Name
+    </td>
+
+    <td align="center">
+      <img src="assets/images/student.png" width="120"><br>
+      <strong>Student Name</strong><br>
+      School Name
+    </td>
+
+    <td align="center">
+      <img src="assets/images/student.png" width="120"><br>
+      <strong>Student Name</strong><br>
+      School Name
+    </td>
+
+    <td align="center">
+      <img src="assets/images/student.png" width="120"><br>
+      <strong>Student Name</strong><br>
+      School Name
+    </td>
+  </tr>
+</table>
 
 ## Students
 We will select a cohort of 10 students.
