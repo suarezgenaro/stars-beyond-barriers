@@ -4,7 +4,7 @@
 
 ## About
 
-**Stars Beyond Barriers** aims to inspire and support students of underrepresented communities to pursue STEM by serving as a bridge between students and well-established science programs that foster young students towards STEM careers. 
+**Stars Beyond Barriers** aims to inspire and support studends from underrepresented groups to pursue STEM by serving as a bridge between students and well-established science programs that provide mentorship, research opportunities, and pathways toward STEM careers.
 
 ## Programs
 
