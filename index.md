@@ -1,4 +1,7 @@
-<link rel="stylesheet" href="assets/css/custom.css">
+---
+---
+
+<link rel="stylesheet" href="/stars-beyond-barriers/assets/css/custom.css">
 
 <p align="center">
   <img src="assets/images/logo.png" width="400">
