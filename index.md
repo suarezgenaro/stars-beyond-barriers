@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="assets/css/custom.css">
 
 <p align="center">
-  <img src="assets/images/logo.png" width="300">
+  <img src="assets/images/logo.png" width="400">
 </p>
 
 **Stars Beyond Barriers** aims to inspire and support students from underrepresented groups, particularly Latina women, to pursue STEM by serving as a bridge between students and well-established science programs that provide mentorship, research opportunities, and pathways toward STEM careers.
