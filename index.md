@@ -1,4 +1,4 @@
-Astronomy outreach and mentorship initiative.
+An astronomy community engagement and mentorship initiative.
 
 <p align="center">
   <img src="assets/images/logo.png" width="300">
@@ -24,7 +24,7 @@ Astronomy outreach and mentorship initiative.
 
 ### For Undergraduate Students
 
-- [Research Experiences for Undergraduates (RUE)](https://www.nsf.gov/funding/initiatives/reu) program that supports students to conduct summer research in the institutions mentioned above.
+- [Research Experiences for Undergraduates (REU)](https://www.nsf.gov/funding/initiatives/reu) program that supports students to conduct summer research in the institutions mentioned above.
 - [The AstroCom NYC program](https://cunyastro.org/astrocom/), which pairs undergraduate students with mentors from AMNH, CUNY, and Flatiron.
 - [The TEAM-UP Together program](https://www.teamuptogether.org/), which supports undergraduate students with limited access to research through mentorship and research opportunities at the above institutions.
 
@@ -32,9 +32,10 @@ Astronomy outreach and mentorship initiative.
 
 Interested in participating or collaborating? Contact us to learn more.
 
----
-
 ## Organizers
-- [Genaro Suárez](https://gsuarezcastro.wixsite.com/gsuarez) (Posdoc at AMNH)
+- [Genaro Suárez](https://gsuarezcastro.wixsite.com/gsuarez) (Postdoc at AMNH)
 - [James Chan](https://sites.google.com/view/jameshhchan/home) (Posdoc at AMNH)
 - [Sherelyn Alejandro Merchán](https://sherelyna.github.io/) (PhD student at CUNY)
+
+---
+## Sponsors
