@@ -42,6 +42,36 @@ Additional information about eligibility, application requirements, and timeline
 Interested in participating or collaborating? Contact us at the emails below to learn more:
 
 ## Organizers
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://gsuarezcastro.wixsite.com/gsuarez">
+        <img src="assets/images/Genaro.png" width="180"><br>
+        <strong>Genaro Suárez</strong>
+      </a><br>
+      Postdoc at AMNH
+    </td>
+
+    <td align="center">
+      <a href="https://sites.google.com/view/jameshhchan/home">
+        <img src="assets/images/James.png" width="180"><br>
+        <strong>James Chan</strong>
+      </a><br>
+      Postdoc at AMNH
+    </td>
+
+    <td align="center">
+      <a href="https://sherelyna.github.io/">
+        <img src="assets/images/Sherelyn.jpeg" width="180"><br>
+        <strong>Sherelyn Alejandro Merchán</strong>
+      </a><br>
+      PhD student at CUNY
+    </td>
+  </tr>
+</table>
+
+## Organizers
 - [Genaro Suárez](https://gsuarezcastro.wixsite.com/gsuarez) (Postdoc at AMNH)
 - [James Chan](https://sites.google.com/view/jameshhchan/home) (Posdoc at AMNH)
 - [Sherelyn Alejandro Merchán](https://sherelyna.github.io/) (PhD student at CUNY)
