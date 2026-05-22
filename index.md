@@ -4,6 +4,8 @@
 
 **Stars Beyond Barriers** aims to inspire and support students from underrepresented groups, particularly Latina women, to pursue STEM by serving as a bridge between students and well-established science programs that provide mentorship, research opportunities, and pathways toward STEM careers.
 
+This initiative was inspired by the Women and Girls in Astronomy Program developed by the North American Regional Office of Astronomy for Development (NA-ROAD). Support and partnership through this program are currently pending review.
+
 ## Program Activities
 
 Focused on students' professional and academic growth, participants will engage in:
@@ -15,7 +17,7 @@ Focused on students' professional and academic growth, participants will engage 
 - Workshops designed to prepare students for and facilitate their inclusion in STEM programs
 
 ## Venue
-The program will be hosted at the [American Museum of Natural History](https://www.amnh.org/) in New York City.
+The program will be hosted at the [American Museum of Natural History](https://www.amnh.org/), primarily within the [Department of Astrophysics](https://www.amnh.org/research/physical-sciences/astrophysics), in New York City.
 
 ## Students
 We will select a cohort of 10 students.
@@ -26,12 +28,14 @@ Additional information about eligibility, application requirements, and timeline
 ### For High School Students
 
 - [The Science Research Mentoring Program (SRMP)](https://www.amnh.org/learn-teach/teens/science-research-mentoring-program) at AMNH, which provides NYC high school students with research opportunities, professional development, and advisory sessions throughout the academic year.
+- *Additional opportunities will be added soon.*
 
 ### For Undergraduate Students
 
 - [Research Experiences for Undergraduates (REU)](https://www.nsf.gov/funding/initiatives/reu), a program that supports undergraduate students conducting summer research at institutions across the United States.
 - [The AstroCom NYC program](https://cunyastro.org/astrocom/), which pairs undergraduate students with mentors from AMNH, CUNY, and the Flatiron Institute.
 - [The TEAM-UP Together program](https://www.teamuptogether.org/), which supports undergraduate students with limited access to research opportunities through mentorship and research experiences at diverse institutions.
+- *Additional opportunities will be added soon.*
 
 ## Get Involved
 
@@ -68,5 +72,5 @@ TBD
   </tr>
 </table>
 
-## Sponsors
+## Sponsors and Acknowledgments
 TBD
