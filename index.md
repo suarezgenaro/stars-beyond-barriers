@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/css/custom.css">
+
 <p align="center">
   <img src="assets/images/logo.png" width="300">
 </p>
@@ -7,6 +9,10 @@
 This initiative was inspired by the [Women and Girls in Astronomy Program](https://naroad.astro4dev.org/2026/04/08/womens-and-girls-in-astronomy-program-2026-call-for-proposal/) developed by the North American Regional Office of Astronomy for Development (NA-ROAD). Support and partnership through this program are currently pending review.
 
 ## Program Activities
+
+<div class="section-title">
+Program Activities
+</div>
 
 Focused on students' professional and academic growth, participants will engage in:
 
