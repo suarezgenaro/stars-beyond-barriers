@@ -47,7 +47,7 @@ Interested in participating or collaborating? Contact us at the emails below to 
   <tr>
     <td align="center">
       <a href="https://gsuarezcastro.wixsite.com/gsuarez">
-        <img src="assets/images/Genaro.png" width="180"><br>
+        <img src="assets/images/Genaro.jpg" width="180"><br>
         <strong>Genaro Suárez</strong>
       </a><br>
       Postdoc at AMNH
@@ -70,11 +70,6 @@ Interested in participating or collaborating? Contact us at the emails below to 
     </td>
   </tr>
 </table>
-
-## Organizers
-- [Genaro Suárez](https://gsuarezcastro.wixsite.com/gsuarez) (Postdoc at AMNH)
-- [James Chan](https://sites.google.com/view/jameshhchan/home) (Posdoc at AMNH)
-- [Sherelyn Alejandro Merchán](https://sherelyna.github.io/) (PhD student at CUNY)
 
 ## Sponsors
 TBD
