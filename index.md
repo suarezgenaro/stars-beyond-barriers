@@ -1,17 +1,12 @@
 Astronomy outreach and mentorship initiative.
 
 <p align="center">
-  <img src="assets/images/logo.png" width="250">
+  <img src="assets/images/logo.png" width="300">
 </p>
-
----
 
 ## About
 
-Stars Beyond Barriers is dedicated to expanding access to astronomy education,
-mentorship, and scientific opportunities through inclusive community engagement.
-
----
+**Stars Beyond Barriers** aims to inspire and support students of underrepresented communities to pursue STEM by serving as a bridge between students and well-established science programs that foster young students towards STEM careers. 
 
 ## Programs
 
@@ -21,7 +16,17 @@ mentorship, and scientific opportunities through inclusive community engagement.
 - Educational resources
 - Community events
 
----
+## Targeted programs
+
+### For High School students
+
+- [The Science Research Mentoring Program (SRMP)](https://www.amnh.org/learn-teach/teens/science-research-mentoring-program) at AMNH for high school students in NYC, which provides research opportunities and professional development and advisory sessions throughout the academic year.
+
+### For Undergraduate Students
+
+- [Research Experiences for Undergraduates (RUE)](https://www.nsf.gov/funding/initiatives/reu) program that supports students to conduct summer research in the institutions mentioned above.
+- [The AstroCom NYC program](https://cunyastro.org/astrocom/), which pairs undergraduate students with mentors from AMNH, CUNY, and Flatiron.
+- [The TEAM-UP Together program](https://www.teamuptogether.org/), which supports undergraduate students with limited access to research through mentorship and research opportunities at the above institutions.
 
 ## Get Involved
 
