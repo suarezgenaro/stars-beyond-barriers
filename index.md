@@ -27,7 +27,7 @@ Venue
 The program will be hosted at the [American Museum of Natural History](https://www.amnh.org/), primarily within the [Department of Astrophysics](https://www.amnh.org/research/physical-sciences/astrophysics), in New York City.
 
 <div class="section-title">
-Participats
+Participants
 </div>
 
 This program is aimed at high school and undergraduate female students in Latino communities in NYC. We will select a cohort of 10 students.
