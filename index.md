@@ -46,6 +46,19 @@ Students
 Students
 </div>
 
+<div style="
+  background-color:#1e3a5f;
+  color:white;
+  padding:12px 20px;
+  border-radius:10px;
+  margin-top:40px;
+  margin-bottom:20px;
+  font-size:1.6em;
+  font-weight:bold;
+">
+Students
+</div>
+
 We will select a cohort of 10 students.
 
 Additional information about eligibility, application requirements, and timelines will be announced soon.
