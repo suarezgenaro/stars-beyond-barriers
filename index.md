@@ -4,17 +4,15 @@
 
 **Stars Beyond Barriers** aims to inspire and support students from underrepresented groups, particularly Latina women, to pursue STEM by serving as a bridge between students and well-established science programs that provide mentorship, research opportunities, and pathways toward STEM careers.
 
-## Approach
+## Program Activities
 
-Selected students will participate in activities focused on their professional and academic growth, including:
+Focused on students' professional and academic growth, participants will engage in:
 
-- Astronomy lectures and inmersive tours at the Hayden Planetarium
+- Astronomy lectures and immersive tours at the Hayden Planetarium
 - Visits to research laboratories
 - Conversations with female researchers
 - Mentorship on research fundamentals
 - Workshops designed to prepare students for and facilitate their inclusion in STEM programs
-
-*All activities will be bilingual to maximize accessibility and engagement.*
 
 ## Venue
 The program will be hosted at the [American Museum of Natural History](https://www.amnh.org/) in New York City.
@@ -38,6 +36,7 @@ Additional information about eligibility, application requirements, and timeline
 ## Get Involved
 
 Interested in participating or collaborating? Contact us at the emails below to learn more:
+TBD
 
 ## Organizers
 
