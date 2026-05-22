@@ -1,8 +1,3 @@
-Stars Beyond Barriers
-=====================
-
-# Stars Beyond Barriers
-
 Astronomy outreach and mentorship initiative.
 
 <p align="center">
