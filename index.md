@@ -2,8 +2,6 @@
   <img src="assets/images/logo.png" width="300">
 </p>
 
-## About
-
 **Stars Beyond Barriers** aims to inspire and support students from underrepresented groups, particularly Latina women, to pursue STEM by serving as a bridge between students and well-established science programs that provide mentorship, research opportunities, and pathways toward STEM careers.
 
 ## Approach
@@ -55,7 +53,7 @@ Interested in participating or collaborating? Contact us at the emails below to 
 
     <td align="center">
       <a href="https://sites.google.com/view/jameshhchan/home">
-        <img src="assets/images/James.png" width="180"><br>
+        <img src="assets/images/James.png" width="220"><br>
         <strong>James Chan</strong>
       </a><br>
       Postdoc at AMNH
@@ -63,7 +61,7 @@ Interested in participating or collaborating? Contact us at the emails below to 
 
     <td align="center">
       <a href="https://sherelyna.github.io/">
-        <img src="assets/images/Sherelyn.jpeg" width="180"><br>
+        <img src="assets/images/Sherelyn.jpeg" width="280"><br>
         <strong>Sherelyn Alejandro Merchán</strong>
       </a><br>
       PhD student at CUNY
