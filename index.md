@@ -21,6 +21,31 @@ The program will be hosted at the [American Museum of Natural History](https://w
 
 ## Students
 
+<div style="
+  background-color:#f4f4f4;
+  padding:12px 20px;
+  border-left:6px solid #4a6fa5;
+  margin-top:40px;
+  margin-bottom:20px;
+  font-size:1.6em;
+  font-weight:bold;
+">
+Students
+</div>
+
+<div style="
+  background-color:#101820;
+  color:white;
+  padding:12px 20px;
+  border-radius:10px;
+  margin-top:40px;
+  margin-bottom:20px;
+  font-size:1.6em;
+  font-weight:bold;
+">
+Students
+</div>
+
 We will select a cohort of 10 students.
 
 Additional information about eligibility, application requirements, and timelines will be announced soon.
@@ -90,10 +115,6 @@ Additional information about eligibility, application requirements, and timeline
     </td>
   </tr>
 </table>
-
-## Students
-We will select a cohort of 10 students.
-Additional information about eligibility, application requirements, and timelines will be announced soon.
 
 ## Targeted Programs
 
