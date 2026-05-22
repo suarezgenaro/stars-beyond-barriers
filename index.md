@@ -114,6 +114,7 @@ Targeted Programs
 - [Research Experiences for Undergraduates (REU)](https://www.nsf.gov/funding/initiatives/reu), a program that supports undergraduate students conducting summer research at institutions across the United States.
 - [The AstroCom NYC program](https://cunyastro.org/astrocom/), which pairs undergraduate students with mentors from AMNH, CUNY, and the Flatiron Institute.
 - [The TEAM-UP Together program](https://www.teamuptogether.org/), which supports undergraduate students with limited access to research opportunities through mentorship and research experiences at diverse institutions.
+- [The Gray STEM Scholars program at Macaulay Honors College](https://macaulay.cuny.edu/opportunities/special-honors-programs/gray-stem-scholars/), which supports undergraduate students pursuing careers in STEM research.
 - *Additional opportunities will be added soon.*
 
 <div class="section-title">
