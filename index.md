@@ -8,8 +8,6 @@
 
 This initiative was inspired by the [Women and Girls in Astronomy Program](https://naroad.astro4dev.org/2026/04/08/womens-and-girls-in-astronomy-program-2026-call-for-proposal/) developed by the North American Regional Office of Astronomy for Development (NA-ROAD). Support and partnership through this program are currently pending review.
 
-## Program Activities
-
 <div class="section-title">
 Program Activities
 </div>
@@ -22,46 +20,13 @@ Focused on students' professional and academic growth, participants will engage 
 - Mentorship on research fundamentals
 - Workshops designed to prepare students for and facilitate their inclusion in STEM programs
 
-## Venue
+<div class="section-title">
+Venue
+</div>
+
 The program will be hosted at the [American Museum of Natural History](https://www.amnh.org/), primarily within the [Department of Astrophysics](https://www.amnh.org/research/physical-sciences/astrophysics), in New York City.
 
-## Students
-
-<div style="
-  background-color:#f4f4f4;
-  padding:12px 20px;
-  border-left:6px solid #4a6fa5;
-  margin-top:40px;
-  margin-bottom:20px;
-  font-size:1.6em;
-  font-weight:bold;
-">
-Students
-</div>
-
-<div style="
-  background-color:#101820;
-  color:white;
-  padding:12px 20px;
-  border-radius:10px;
-  margin-top:40px;
-  margin-bottom:20px;
-  font-size:1.6em;
-  font-weight:bold;
-">
-Students
-</div>
-
-<div style="
-  background-color:#1e3a5f;
-  color:white;
-  padding:12px 20px;
-  border-radius:10px;
-  margin-top:40px;
-  margin-bottom:20px;
-  font-size:1.6em;
-  font-weight:bold;
-">
+<div class="section-title">
 Students
 </div>
 
@@ -135,7 +100,9 @@ Additional information about eligibility, application requirements, and timeline
   </tr>
 </table>
 
-## Targeted Programs
+<div class="section-title">
+Targeted Programs
+</div>
 
 ### For High School Students
 
@@ -149,12 +116,9 @@ Additional information about eligibility, application requirements, and timeline
 - [The TEAM-UP Together program](https://www.teamuptogether.org/), which supports undergraduate students with limited access to research opportunities through mentorship and research experiences at diverse institutions.
 - *Additional opportunities will be added soon.*
 
-## Get Involved
-
-Interested in participating or collaborating? Contact us at the emails below to learn more:
-TBD
-
-## Organizers
+<div class="section-title">
+Organizers
+</div>
 
 <table>
   <tr>
@@ -183,6 +147,11 @@ TBD
     </td>
   </tr>
 </table>
+
+## Get Involved
+
+Interested in participating or collaborating? Contact us at the emails below to learn more:
+TBD
 
 ## Sponsors and Acknowledgments
 TBD
