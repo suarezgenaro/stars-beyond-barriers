@@ -1,5 +1,3 @@
-An astronomy community engagement and mentorship initiative.
-
 <p align="center">
   <img src="assets/images/logo.png" width="300">
 </p>
