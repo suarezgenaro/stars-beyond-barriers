@@ -125,7 +125,7 @@ Organizers
   <tr>
     <td align="center">
       <a href="https://gsuarezcastro.wixsite.com/gsuarez">
-        <img src="assets/images/Genaro.jpg" width="220"><br>
+        <img src="assets/images/Genaro.jpg" width="260"><br>
         <strong>Genaro Suárez</strong>
       </a><br>
       Postdoc at AMNH
