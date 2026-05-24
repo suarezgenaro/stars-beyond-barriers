@@ -125,7 +125,7 @@ Organizers
   <tr>
     <td align="center">
       <a href="https://gsuarezcastro.wixsite.com/gsuarez">
-        <img src="assets/images/Genaro.jpg" width="280"><br>
+        <img src="assets/images/Genaro.jpg" width="290"><br>
         <strong>Genaro Suárez</strong>
       </a><br>
       Postdoc at AMNH
@@ -133,7 +133,7 @@ Organizers
 
     <td align="center">
       <a href="https://sites.google.com/view/jameshhchan/home">
-        <img src="assets/images/James.png" width="220"><br>
+        <img src="assets/images/James.png" width="210"><br>
         <strong>James Chan</strong>
       </a><br>
       Postdoc at AMNH
