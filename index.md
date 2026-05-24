@@ -24,7 +24,7 @@ Focused on students' professional and academic growth, participants will engage 
 Venue
 </div>
 
-The program will be hosted at the [American Museum of Natural History](https://www.amnh.org/), primarily within the [Department of Astrophysics](https://www.amnh.org/research/physical-sciences/astrophysics), in New York City.
+The program will be hosted at the [American Museum of Natural History](https://www.amnh.org/), primarily within the [Department of Astrophysics](https://www.amnh.org/research/physical-sciences/astrophysics), in New York City during the second half of 2026.
 
 <div class="section-title">
 Participants
@@ -133,7 +133,7 @@ Organizers
 
     <td align="center">
       <a href="https://sites.google.com/view/jameshhchan/home">
-        <img src="assets/images/James.png" width="210"><br>
+        <img src="assets/images/James.png" width="205"><br>
         <strong>James Chan</strong>
       </a><br>
       Postdoc at AMNH
