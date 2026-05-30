@@ -4,7 +4,7 @@
   <img src="assets/images/logo.png" width="400">
 </p>
 
-**Stars Beyond Barriers** aims to inspire and support students from underrepresented groups and genders to pursue STEM by serving as **a bridge between students and well-established science programs** that provide mentorship, research opportunities, and pathways toward STEM careers.
+**Stars Beyond Barriers** aims to inspire and support students from underrepresented groups to pursue STEM by serving as **a bridge between students and well-established science programs** that provide mentorship, research opportunities, and pathways toward STEM careers.
 
 This initiative was inspired by the [Women and Girls in Astronomy Program](https://naroad.astro4dev.org/2026/04/08/womens-and-girls-in-astronomy-program-2026-call-for-proposal/) by the North American Regional Office of Astronomy for Development (NA-ROAD). Support and partnership through this program are currently pending review.
 
@@ -30,7 +30,7 @@ The program will be hosted at the [American Museum of Natural History](https://w
 Participants
 </div>
 
-This program is aimed at high school and undergraduate female students in Latino communities in NYC. We will select a cohort of 10 students.
+This program is aimed at high school and undergraduate students in NYC from groups that are underrepresented in STEM, including Latina women, African American women, and non-binary students.
 
 Additional information about eligibility, application requirements, and timelines will be announced soon.
 
