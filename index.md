@@ -107,6 +107,7 @@ Targeted Programs
 ### For High School Students
 
 - [The Science Research Mentoring Program (SRMP)](https://www.amnh.org/learn-teach/teens/science-research-mentoring-program) at AMNH, which provides NYC high school students with research opportunities, professional development, and advisory sessions throughout the academic year.
+- [Lang Science Program](https://www.amnh.org/learn-teach/children-and-families/lang-science-program) at AMNH for middle and high school students in NYC, which offers hands-on scientific exploration, mentorship, and collaborative learning experiences.
 - *Additional opportunities will be added soon.*
 
 ### For Undergraduate Students
