@@ -16,7 +16,7 @@ Focused on students' professional and academic growth, participants will engage 
 
 - Astronomy lectures and immersive tours at the Hayden Planetarium
 - Visits to research laboratories
-- Conversations with diverse researchers
+- Conversations with a diversity of scientists
 - Mentorship on research fundamentals
 - Workshops designed to prepare students for and facilitate their inclusion in STEM programs
 
